@@ -1,4 +1,4 @@
-# Back in my Day!
+# React Redux Colors
 Date: Feb 27, 2019
 
 ## Project Concept:
